@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApiApp</string>
+    <string name="string_get_repos">GET REPOS</string>
+</resources>
